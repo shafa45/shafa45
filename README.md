@@ -1,8 +1,8 @@
-![logo](https://github.com/shafa45/shafa-45/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/shafa45/shafa45/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shafaullah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/shafa45/shafa-45/blob/main/gif.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/shafa45/shafa45/blob/main/gif.gif">
 
 - 🎓 I am a 4th year IT Student at Heritage Institute Of Technology
 - 💖 I love **javascript**
