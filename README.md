@@ -8,7 +8,7 @@
 - 💖 I love **javascript**
 - 🔭 I’m currently working on building great things
 - 🌱 I’m currently learning Golang
-- 💻 I am proficient in **MERN Stack** and **Python/ FastAPI**
+- 💻 I am proficient in **MERN Stack** and **DSA**
 - 👯 I’m looking to collaborate on MERN Stack/Python Projects
 - 📙 Proficient in DSA and Problem Solving
 - ⚡ Fun fact **I am funny😅**
