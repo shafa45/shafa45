@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/shafa45/shafa45/blob/main/gif.gif">
 
-- 🎓 I am a 4th year IT Student at Heritage Institute Of Technology
 - 💖 I love **javascript**
 - 🔭 I’m currently working on building great things
 - 🌱 I’m currently learning Golang
